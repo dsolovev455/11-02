@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 for ((KeyCount=1; KeyCount < 6; KeyCount++))
 do
